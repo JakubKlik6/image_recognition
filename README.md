@@ -17,3 +17,6 @@ pip install -r requirements.txt
 ```sh
 python manage.py runserver
 ```
+
+# Description
+This is a simple Django application in which after uploading any photo, using gpt chat, it creates a description and title for the image.
