@@ -1,4 +1,4 @@
-/*
+'''
 Django==4.0
 Pillow
 numpy
@@ -9,4 +9,4 @@ protobuf==3.20
 jupyter
 openai==0.28
 python-dotenv
-*/
+'''
