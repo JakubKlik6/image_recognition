@@ -1,12 +1,12 @@
 # Django AI  
 Wymagania:
-- Django==4.0
+- Django 4.0
 - Pillow
 - numpy
 - pandas
-- tensorflow==2.8.0
+- tensorflow 2.8.0
 - tensorflow-hub
-- protobuf==3.20
+- protobuf 3.20
 
 ## Instalacja
 ```sh
