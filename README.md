@@ -1,5 +1,5 @@
 # Django AI  
-Wymagania:
+Requirements:
 - Django 4.0
 - Pillow
 - numpy
@@ -8,12 +8,12 @@ Wymagania:
 - tensorflow-hub
 - protobuf 3.20
 
-## Instalacja
+## Install
 ```sh
 pip install -r requirements.txt
 ```
 
-## Uruchomienie
+## Lunch
 ```sh
 python manage.py runserver
 ```
